@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "465711217260",
+    "firebase_url": "https://weather-app-b3a14.firebaseio.com",
+    "project_id": "weather-app-b3a14",
+    "storage_bucket": "weather-app-b3a14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465711217260:android:cbfc5e786b14d8cdf4f649",
+        "android_client_info": {
+          "package_name": "com.musalaSoft.weather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465711217260-47j7um4qn6mkfi1sdsrtb4iv0ori8t8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKdFGwoKphk_z8cOLfz8P8ox5p_QRQu5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465711217260-47j7um4qn6mkfi1sdsrtb4iv0ori8t8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
